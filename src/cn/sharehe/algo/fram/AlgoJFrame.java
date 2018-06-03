@@ -7,7 +7,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * 算法展示窗口
+ * 展示窗口
  * @Author: wugui
  * @Date 2018-6-2 15:07
  */
@@ -35,6 +35,10 @@ public class AlgoJFrame extends JFrame {
         this.circles = circles;
         repaint();
     }
+
+    /**
+     * 画板 小球运动的画板
+     */
     private class AlgoJPanl extends JPanel{
         @Override
         protected void paintComponent(Graphics g) {

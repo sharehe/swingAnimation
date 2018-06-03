@@ -6,6 +6,9 @@ import java.awt.geom.*;
 
 import java.lang.InterruptedException;
 
+/**
+ * 该工具类未使用
+ */
 public class AlgoVisHelper {
 
     private AlgoVisHelper(){}

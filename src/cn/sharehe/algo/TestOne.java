@@ -1,6 +1,7 @@
 package cn.sharehe.algo;
 import cn.sharehe.algo.controller.CircleController;
 /**
+ * 程序的入口
  * @Author: wugui
  * @Date 2018-6-2 14:23
  */

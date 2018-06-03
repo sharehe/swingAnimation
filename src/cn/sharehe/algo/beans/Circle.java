@@ -8,10 +8,10 @@ import cn.sharehe.algo.fram.AlgoJFrame;
  * @Date 2018-6-2 17:11
  */
 public class Circle {
-    private int x,y;
-    private int r;
-    private int vx,vy;
-    private boolean isFIll;
+    private int x,y; //坐标
+    private int r;      // 半径
+    private int vx,vy;  // 速度
+    private boolean isFIll; //是否为实心
     public Circle(int x, int y, int r, int vx, int vy) {
         this.x = x;
         this.y = y;
